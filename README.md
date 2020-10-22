@@ -1,2 +1,5 @@
-# sistema-busca-python
-Um sistema de busca com indexador de páginas Web em Python, Django e MySQL.
+# Análise de dados no PowerBI a partir de um SGBD
+* Modelagem lógica e física
+* Tabelas
+* ETL dos dados no PowerBI
+* Análise e construção do Dashboard
