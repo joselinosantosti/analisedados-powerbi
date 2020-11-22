@@ -1,8 +1,10 @@
 # Análise de dados no PowerBI
-Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da [DSA] (https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1)
+Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da 
+[DSA] (https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1)
 
-## Projeto 1 - Vendas a partir de Planilha do Excel
-
+## Projeto 1 - Análise de dados de Vendas para uma loja de Eletrodomésticos
+* Fonte de dados: Planilha do Excel
+* Problema de negócio
 
 ## Projeto 2 - Análise de dados TIFF
 
