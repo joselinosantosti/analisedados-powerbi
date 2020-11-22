@@ -1,6 +1,6 @@
 # Análise de dados no PowerBI
 Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da </br>
-[DSA] (https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1)
+[DSA](https://www.datascienceacademy.com.br/pages/cursos-gratuitos-1)
 
 ## Projeto 1 - Análise de dados de Vendas para uma loja de Eletrodomésticos
 ![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto1/01.DashboardVendas.png)
