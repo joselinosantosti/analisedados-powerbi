@@ -38,7 +38,7 @@ Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da
 3. Total de vendas por ano.
 4. Total de vendas.
 5. Principais influenciadores.
-![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto4-OTIF/04.Dashboard.png)
+![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto4-Database/04.Dashboard.png)
 
 ### Atividades do projeto
 * Modelagem lógica e física<br>
