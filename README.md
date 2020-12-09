@@ -34,9 +34,14 @@ Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da
 ![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto4-OTIF/04.Dashboard.png)
 ### Fonte de dados: DW do SGBD SQLserver
 ### Problema de negócio: Responder as seguintes perguntas
-* Modelagem lógica e física
-* Tabelas
-* ETL dos dados no PowerBI
-* Análise e construção do Dashboard
+1. Qual o total de Vendas por categoria?
+2. Qual o total de vendas por marca?
+3. Total de vendas por ano.
+4. Total de vendas.
+5. Principais influenciadores.
 
-
+### Atividades do projeto
+* Modelagem lógica e física<br>
+* Tabelas<br>
+* ETL dos dados no PowerBI<br>
+* Análise dos dados e construção do Dashboard<br>
