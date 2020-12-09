@@ -13,9 +13,9 @@ Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da
 
 ## Projeto 2 - Análise de dados OTIF (Prazos de entrega de um Ecommerce)
 * Fonte de dados: Arquivo CSV extraído de um banco de dados
-* Problema de negócio: Tomador de decisões quer saber:
--Qual o percentual de entregas no prazo e fora do prazo?
--Qual o desempenho da logística e transporte ao longo do tempo?
+* Problema de negócio: Tomador de decisões quer saber:<br>
+-Qual o percentual de entregas no prazo e fora do prazo?<br>
+-Qual o desempenho da logística e transporte ao longo do tempo?<br>
 -Qual o tempo médio de uma entrega?
 
 ## Projeto 3 - Dados a partir de SGBD
