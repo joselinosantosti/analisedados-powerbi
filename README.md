@@ -28,7 +28,7 @@ Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da
 1. Qual o percentual de entregas no prazo e fora do prazo?
 2. Qual o desempenho da logística e transporte ao longo do tempo?
 3. Qual o tempo médio de uma entrega?
-![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto3-OTIF/03.Dashboard.png)
+![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto3-OTIF/img/DashboardOTIF.png)
 
 ## Projeto 4 - Dados a partir de SGBD
 ### Fonte de dados: DW do SGBD SQLserver
