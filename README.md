@@ -29,6 +29,7 @@ Alguns dos projetos foram inspirados pelo curso gratuito de PowerBI da
 2. Qual o desempenho da logística e transporte ao longo do tempo?
 3. Qual o tempo médio de uma entrega?
 ![Dashboard](https://github.com/joselinosantosti/analisedados-powerbi/blob/master/Projeto3-OTIF/img/DashboardOTIF.png)
+Acompanhe o artigo completo no meu Blog: https://joselinosantos.medium.com/como-analisar-o-desempenho-das-entregas-de-um-ecommerce-com-power-bi-79a8b1d6e6e0 
 
 ## Projeto 4 - Dados a partir de SGBD
 ### Fonte de dados: DW do SGBD SQLserver
